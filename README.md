@@ -6,7 +6,7 @@ This project demonstrates an object detection system using a pre-trained Faster 
 
 ## Requirements
 
-- Python 3.9
+- Python 3.10
 - Poetry
 - Docker
 
