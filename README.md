@@ -2,7 +2,7 @@
 
 This project demonstrates an object detection system using a pre-trained Faster R-CNN model with PyTorch, deployed via a Streamlit web application. The project dependencies are managed using Poetry, and the application is containerized using Docker.
 
-![Application Screenshot](screenshots/screenshot.png)
+![Application Screenshot](screenshots/object-detection-system.png)
 
 ## Requirements
 
